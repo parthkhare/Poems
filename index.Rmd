@@ -1,0 +1,52 @@
+---
+title: "HBD-Elabudo"
+image: "SP.png"
+# links:
+#   - label: LinkedIn
+#     url: "https://linkedin.com/"
+#   - label: Twitter
+#     url: "https://twitter.com/"
+#   - label: GitHub
+#     url: "https://github.com/"
+#   - label: Email
+#     url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+How do you see when you want look back in time?  
+as the eyes are closed  
+and lenses are left to mime  
+
+
+As I was trying  
+I remembered that you had given me a mirrorless  
+a triangularly shaped kaleidoscopic lens
+
+When I tried to focus it  
+it lent me a gaze  
+that plunged inside memory lanes  
+and I saw that the broken pieces of colored glasses  
+were in fact a litany of kertezs, einlasmusiks and soderbergian frames  
+
+This kaleidoscopic lens  
+measured depth of field not in space but in time  
+and so adjusting the aperture  
+juxtaposed our pasts and futures in a single composition  
+
+And I realised that this composition  
+was actually the precise definition of a word  
+whose meaning always eluded to me  
+
+the mirrorless-    
+the lens-   
+the word-  
+is what I now know as my aesthetic  
+
+which you have shaped across time and space  
+by identifying the intelligence in geometry  
+do play around with the aperture as well  
+I am seeing a film when I set it to future  
+
+-- 
+28-09-2021
